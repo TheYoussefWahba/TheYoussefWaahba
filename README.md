@@ -1,4 +1,4 @@
-<h1 align="left" style="color: #ffffff;">Welcome to My GitHub Profile!</h1>
+<h1 align="left" style="color: #ffffff;">Welcome to My GitHub Profile!</h1> 
 <div align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&pause=500&color=ffffff&background=FFE60000&vCenter=true&multiline=true&width=500&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Youssef+Wahba" alt="Typing SVG" />
@@ -10,6 +10,9 @@
 
 <p align="left">
   I am a 22-year-old website developer, dedicated to excelling in my field while simultaneously pursuing my education at the Higher Institute of Commercial and Computer Sciences in Ismailia.
+  
+  <a href="https://github.com/TheYoussefWahba "><img src="https://komarev.com/ghpvc/?username=TheYoussefWahba "></a>
+  <a href="https://github.com/TheYoussefWahba?tab=followers"><img src="https://img.shields.io/github/followers/TheYoussefWahba?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -29,7 +32,6 @@
 
 <h3 align="left">Techniques I generally use:</h3>
 <div align="left">
-<div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
@@ -42,7 +44,4 @@
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
 </div>
 
-###
-</div>
 
-###
