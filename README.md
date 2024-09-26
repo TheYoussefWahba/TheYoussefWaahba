@@ -51,3 +51,6 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheYoussefWahba&layout=compact" alt="GitHub Streak" width=600 /></a>
 </div>
 
+
+
+<img src="https://raw.githubusercontent.com/lucasb25/lucasb25/output/snake.svg" alt="Snake animation" width= 1000 />
