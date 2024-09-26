@@ -27,10 +27,7 @@
  <!-- <a href = "https://discord.gg/user/1056186358848295052"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
 </div>
 
----
-
-
-<h3 align="left">Techniques I generally use:</h3>
+<h1 align="left">Techniques I generally use:</h1>
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
@@ -44,4 +41,13 @@
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
 </div>
 
+<h1 align="left">Stats</h1>
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TheYoussefWahba&theme=github-dark-blue" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=TheYoussefWahba&show_icons=true&theme=github_dark" alt="GitHub Streak" /></a>
+
+###
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheYoussefWahba&layout=compact" alt="GitHub Streak" width=600 /></a>
+</div>
 
