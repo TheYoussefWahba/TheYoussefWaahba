@@ -19,7 +19,30 @@
   <a href="https://www.linkedin.com/in/youssef-wahba-572223286/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ---
-  <a href="https://lanyard.cnrad.dev/api/1056186358848295052" target="_blank"><img src="https://lanyard.cnrad.dev/api/1056186358848295052" width=700 target="_blank"></a>
+  <a href="https://lanyard.cnrad.dev/api/1056186358848295052" target="_blank"><img src="https://lanyard.cnrad.dev/api/1056186358848295052" width=550 target="_blank"></a>
 
  <!-- <a href = "https://discord.gg/user/1056186358848295052"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
 </div>
+
+---
+
+
+<h3 align="left">Techniques I generally use:</h3>
+<div align="left">
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
+ <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"  /> -->
+ <!--   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  /> -->
+ <!-- <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="40" alt="bootstrap logo"  /> -->
+ <!-- <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo"  /> -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
+</div>
+
+###
+</div>
+
+###
